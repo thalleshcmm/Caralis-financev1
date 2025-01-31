@@ -27,7 +27,7 @@ const INITIAL_CARDS: Card[] = [
   {
     id: '1',
     number: '4532123456781234',
-    holder: 'JOHN DOE',
+    holder: 'Thalles Henrique',
     expiry: '12/25',
     limit: 18250,
     balance: 3250,
@@ -39,7 +39,7 @@ const INITIAL_CARDS: Card[] = [
   {
     id: '2',
     number: '5412345678901234',
-    holder: 'JOHN DOE',
+    holder: 'Carol Martins',
     expiry: '03/26',
     limit: 12000,
     balance: 1800,
